@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CreeperKeith57
+- 👀 I’m interested in coding for games.
+- 🌱 I’m currently learning Java Script.
+- 💞️ I’m looking to collaborate on notingh really.
+- 📫 How to reach me kdrubeck@gmail.com
